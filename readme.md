@@ -36,6 +36,7 @@ Technologies Used
     
 
 Postman Collection Link: [LINK](https://www.postman.com/technical-cosmologist-52026975/workspace/my-workspace/collection/41195186-ae0d5ff9-9cf0-4725-b8b6-ec52d4b5deac?action=share&creator=41195186)
+-----------------------
 
 API Endpoints
 -------------
